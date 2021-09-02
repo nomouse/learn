@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T08:47:10.238Z" agent="5.0 (Macintosh; Intel Mac OS X 11_5_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4eBHH3B9l6wmUhS8yiT1" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T09:14:19.014Z" agent="5.0 (Macintosh; Intel Mac OS X 11_5_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="UqRPqH5_2qUyZQJZgWF1" version="15.0.6" type="github">
   <diagram id="NM-FnL9aiEsatMu2k_oT" name="Page-1">
-    <mxGraphModel dx="786" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="irNuKJr1E5cWdmTTzUOE-2" value="权益网关" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="700" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="irNuKJr1E5cWdmTTzUOE-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;权益查询&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;权益模版查询&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="110" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="irNuKJr1E5cWdmTTzUOE-5" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="irNuKJr1E5cWdmTTzUOE-4">
@@ -58,6 +58,39 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-25" value="权益活动" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-240" width="700" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-26" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;活动&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;规则&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-28" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;活动模版映射&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-50" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-29" value="活动召回" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-200" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-30" value="权益匹配" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-200" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-31" value="权益发放" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-200" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-34" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-480" width="690" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-35" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;互动活动&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-36" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;互动任务&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-37" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;互动行为&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-380" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
