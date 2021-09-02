@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T07:02:42.797Z" agent="5.0 (Macintosh; Intel Mac OS X 11_5_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="tMLJyJK93HNyreqbPPTS" version="15.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T07:06:42.415Z" agent="5.0 (Macintosh; Intel Mac OS X 11_5_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qRPMYUWWD6VrV9XZliJ0" version="15.0.5" type="github">
   <diagram id="9KHc1_BPApXsyWFQziXx" name="Page-1">
     <mxGraphModel dx="1613" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,11 +81,8 @@
         <mxCell id="g5eA6v_6zcaxkkMn7qFf-47" value="mysql" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="344" y="590" width="86" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g5eA6v_6zcaxkkMn7qFf-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=ERone;startFill=0;endArrow=openThin;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="g5eA6v_6zcaxkkMn7qFf-48" target="g5eA6v_6zcaxkkMn7qFf-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g5eA6v_6zcaxkkMn7qFf-48" value="人维度宽表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="107" y="680" width="86" height="60" as="geometry" />
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-48" value="人维度离线宽表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="214" y="680" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g5eA6v_6zcaxkkMn7qFf-51" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;数据集管理&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="480" width="120" height="40" as="geometry" />
@@ -96,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g5eA6v_6zcaxkkMn7qFf-59" value="rdb" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="590" y="680" width="86" height="60" as="geometry" />
+          <mxGeometry x="690" y="682.5" width="86" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g5eA6v_6zcaxkkMn7qFf-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=openThin;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="g5eA6v_6zcaxkkMn7qFf-61" target="g5eA6v_6zcaxkkMn7qFf-48">
           <mxGeometry relative="1" as="geometry" />
@@ -116,10 +113,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g5eA6v_6zcaxkkMn7qFf-69" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="705" width="60" height="10" as="geometry" />
+          <mxGeometry x="30" y="705" width="150" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="g5eA6v_6zcaxkkMn7qFf-70" value="聚合" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="7.5" y="650" width="105" height="30" as="geometry" />
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-70" value="数据集聚合" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="657.5" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="g5eA6v_6zcaxkkMn7qFf-72" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;指标维护&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="480" width="120" height="40" as="geometry" />
@@ -129,7 +126,7 @@
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g5eA6v_6zcaxkkMn7qFf-76" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;指标维护&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-76" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b&gt;群组服务&lt;/b&gt;&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g5eA6v_6zcaxkkMn7qFf-77" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="g5eA6v_6zcaxkkMn7qFf-76">
@@ -144,6 +141,30 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-80" value="群组维度离线表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="680" width="86" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-83" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERone;startFill=0;endArrow=openThin;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="g5eA6v_6zcaxkkMn7qFf-81" target="g5eA6v_6zcaxkkMn7qFf-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-81" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="705" width="150" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-82" value="定时同步" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="660" width="105" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-86" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="705" width="150" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-87" value="定时同步" style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="658.75" width="105" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-88" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;人群判定&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="390" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g5eA6v_6zcaxkkMn7qFf-89" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;人群拉取&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="390" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
