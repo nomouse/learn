@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-02T09:14:19.014Z" agent="5.0 (Macintosh; Intel Mac OS X 11_5_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="UqRPqH5_2qUyZQJZgWF1" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-02T09:15:51.429Z" agent="5.0 (Macintosh; Intel Mac OS X 11_5_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="fX4PW0JTmXTXpuAM1-ut" version="15.0.6" type="github">
   <diagram id="NM-FnL9aiEsatMu2k_oT" name="Page-1">
     <mxGraphModel dx="786" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,8 +80,8 @@
         <mxCell id="irNuKJr1E5cWdmTTzUOE-31" value="权益发放" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530" y="-200" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="irNuKJr1E5cWdmTTzUOE-34" value="Module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-480" width="690" height="190" as="geometry" />
+        <mxCell id="irNuKJr1E5cWdmTTzUOE-34" value="互动层" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-490" width="690" height="210" as="geometry" />
         </mxCell>
         <mxCell id="irNuKJr1E5cWdmTTzUOE-35" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;互动活动&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-380" width="140" height="60" as="geometry" />
